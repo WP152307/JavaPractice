@@ -25,6 +25,7 @@ public class Operator {
 		long pay = 1700000, store = 1500;
 		int em = 3;
 		long expense;
+		
 		expense = pay * 12 * em * store;
 
 		System.out.println("<< 디미베네 연간 인건비 >>");
