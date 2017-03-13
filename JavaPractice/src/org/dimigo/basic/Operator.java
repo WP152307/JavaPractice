@@ -26,7 +26,6 @@ public class Operator {
 		int em = 3;
 		long expense;
 		expense = pay * 12 * em * store;
-		
 		System.out.println("<< 디미베네 연간 인건비 >>");
 		System.out.println("월 평균 급여 : "+String.format("%,d", pay)+"원");
 		System.out.println("점포 내 직원 수 : "+em+"명");
