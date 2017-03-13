@@ -8,7 +8,7 @@ package org.dimigo.basic;
  * org.dimigo.basic
  *  |_ PrimitiveDataType
  *
- * 1. 개요 : 아이유 프로필 출럭하
+ * 1. 개요 : 아이유 프로필 출력하기
  * 2. 작성일 : 2017. 3. 9.
  * </pre>
  *
