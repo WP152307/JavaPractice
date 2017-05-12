@@ -48,7 +48,7 @@ public class Snack {
 	}
 	
 	public Snack(){
-		
+
 	}
 	
 	public Snack(String newName, String newCompany, int newPrice, int newNumber){

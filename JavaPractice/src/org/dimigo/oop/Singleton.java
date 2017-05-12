@@ -26,6 +26,7 @@ public class Singleton {
 			object = new Singleton();
 		return object;
 	}
+	
 	//Test Data
 	private int k;
 	public int getData(){
